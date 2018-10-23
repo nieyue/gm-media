@@ -26,31 +26,31 @@
         <div style="height:185px;width:185px;background:url('/static/index-model1.png') no-repeat 100% 100%;border-radius:5px;display:inline-block;">
         </div>
         <div style="font-size:1.2rem;font-weight:bold;">吸粉广告收益</div>
-        <div>精准定点投放，每送出一包纸巾都将直接产生吸粉收益。</div>
+        <div style="text-align:left;">精准定点投放，每送出一包纸巾都将直接产生吸粉收益。</div>
       </div>
       <div style="margin-left:30px;height:263px;width:200px;display:inline-block;">
         <div style="height:185px;width:185px;background:url('/static/index-model2.png') no-repeat 100% 100%;border-radius:5px;display:inline-block;">
         </div>
         <div style="font-size:1.2rem;font-weight:bold;">视频广告收益</div>
-        <div>高峰时段15s-60s广告投放，分行业跨区域投放，收益巨大。</div>
+        <div style="text-align:left;">高峰时段15s-60s广告投放，分行业跨区域投放，收益巨大。</div>
       </div>
       <div style="margin-left:30px;height:263px;width:200px;display:inline-block;">
         <div style="height:185px;width:185px;background:url('/static/index-model3.png') no-repeat 100% 100%;border-radius:5px;display:inline-block;">
         </div>
         <div style="font-size:1.2rem;font-weight:bold;">机身广告收益</div>
-        <div>固定广告位置，轻松自由投放，全方位适应各种广告需要。</div>
+        <div style="text-align:left;">固定广告位置，轻松自由投放，全方位适应各种广告需要。</div>
       </div>
       <div style="margin-left:30px;height:263px;width:200px;display:inline-block;">
         <div style="height:185px;width:185px;background:url('/static/index-model4.png') no-repeat 100% 100%;border-radius:5px;display:inline-block;">
         </div>
         <div style="font-size:1.2rem;font-weight:bold;">纸巾广告收益</div>
-        <div>纸巾正反面广告，助力区域广告精准宣传，赢得市场分红。</div>
+        <div style="text-align:left;">纸巾正反面广告，助力区域广告精准宣传，赢得市场分红。</div>
       </div>
       <div style="margin-left:30px;height:263px;width:200px;display:inline-block;">
         <div style="height:185px;width:185px;background:url('/static/index-model5.png') no-repeat 100% 100%;border-radius:5px;display:inline-block;">
         </div>
         <div style="font-size:1.2rem;font-weight:bold;">弹窗广告收益</div>
-        <div>领取纸巾过程中会有弹窗广告，出纸，便释放一次点击量。</div>
+        <div style="text-align:left;">领取纸巾过程中会有弹窗广告，出纸，便释放一次点击量。</div>
       </div>
     </div>
   </div>
