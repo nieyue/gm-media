@@ -2,7 +2,7 @@
 <template>
     <div class="footer-bar">
         <div class="footer-bar-wrap">
-            <div class="footer-bar-line-wrap" style="text-align:left !important;margin-left:8rem !important;width:500px;display:inline-block;">
+            <div class="footer-bar-line-wrap" style="text-align:left !important;width:600px;display:inline-block;">
               <div class="footer-bar-company">
                 <img src="/static/footer-phone.png" alt="">
                 <span style="vertical-align:0.6rem;">电话：0731-84416199</span>
@@ -23,8 +23,10 @@
                 </span>
               </div>
             </div>
-            <div style="width:500px;display:inline-block;">
+            <div style="display:inline-block;margin-left:200px;">
               <div style="display:inline-block;">
+                <img src="http://www.yayao8.com/resources/img/YaYaoQRCode.jpg" style="width:120px;" alt="">
+                <img src="http://www.yayao8.com/resources/img/YaYaoQRCode.jpg" style="width:120px;" alt="">
                 <img src="http://www.yayao8.com/resources/img/YaYaoQRCode.jpg" style="width:120px;" alt="">
               </div>
             </div>
